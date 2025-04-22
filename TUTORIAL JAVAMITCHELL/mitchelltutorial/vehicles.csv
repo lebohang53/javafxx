@@ -1,0 +1,7 @@
+ID,Brand,Model,Category,Daily Rate,Status
+V001,Tesla,Model S,Car,150.00,Available
+V002,BMW,X5,SUV,120.00,Available
+V003,Ford,Transit,Van,100.00,Available
+V004,Toyota,Hilux,Truck,110.00,Rented
+V005,Honda,CBR600RR,Bike,80.00,Maintainance
+V006,Benz,A6,Car,200.00,Available
